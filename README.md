@@ -5,6 +5,8 @@ LRU-evicting, TTL-aware key/value server that speaks the Memcache **text
 protocol**, plus a consistent-hashing client for routing keys across a
 multi-node cluster. Deployable as Docker containers.
 
+![memcache-go architecture](memcache-design.png)
+
 ## Features
 
 - In-memory store with **O(1) LRU eviction** (doubly-linked list + map)
