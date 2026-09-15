@@ -1,0 +1,10 @@
+# Binaries
+/memcached
+/server
+*.exe
+*.out
+
+# Go
+/vendor/
+*.test
+*.prof
