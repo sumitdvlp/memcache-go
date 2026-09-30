@@ -10,8 +10,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/kusu/memcache-go/client"
-	"github.com/kusu/memcache-go/memcache"
+	"memcache-go/client"
+	"memcache-go/memcache"
 )
 
 // startNode starts a memcache server on a random local port and returns its

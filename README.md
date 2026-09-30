@@ -82,7 +82,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/kusu/memcache-go/client"
+	"memcache-go/client"
 )
 
 func main() {
@@ -125,3 +125,6 @@ them through the cluster client.
 
 
 ![Architecture (PS: claude made this diagram)](memcache-design.png)
+## License
+
+Released under the [MIT License](LICENSE). Anyone may use, copy, modify, and distribute this code.

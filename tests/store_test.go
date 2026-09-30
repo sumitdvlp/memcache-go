@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/kusu/memcache-go/memcache"
+	"memcache-go/memcache"
 )
 
 func TestStoreSetGet(t *testing.T) {

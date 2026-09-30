@@ -1,3 +1,3 @@
-module github.com/kusu/memcache-go
+module memcache-go
 
 go 1.25.6

@@ -11,7 +11,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/kusu/memcache-go/memcache"
+	"memcache-go/memcache"
 )
 
 func main() {

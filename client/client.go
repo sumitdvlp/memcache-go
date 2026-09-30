@@ -12,7 +12,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/kusu/memcache-go/cluster"
+	"memcache-go/cluster"
 )
 
 // ErrCacheMiss is returned by Get when the key is not present.

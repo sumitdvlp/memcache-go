@@ -5,7 +5,7 @@ import (
 	"math"
 	"testing"
 
-	"github.com/kusu/memcache-go/cluster"
+	"memcache-go/cluster"
 )
 
 func TestRingEmpty(t *testing.T) {
